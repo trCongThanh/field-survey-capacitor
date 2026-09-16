@@ -5,6 +5,7 @@ Dự án phát triển ứng dụng di động đa nền tảng (Cross-platform 
 ---
 
 > 🔗 **Trải nghiệm trực tiếp ứng dụng (Live Demo Web Mode):** 
+>
 > [https://trcongthanh-field-survey-capacitor.netlify.app](https://trcongthanh-field-survey-capacitor.netlify.app)
 
 *(Lưu ý: Link Demo chạy trên nền tảng Web. Để trải nghiệm 100% sức mạnh phần cứng như một Native App, vui lòng build qua Android Studio theo hướng dẫn bên dưới).*
